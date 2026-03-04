@@ -1,0 +1,1 @@
+{"outputDirectory":"dist","buildCommand":"node node_modules/vite/bin/vite.js build","installCommand":"npm install"}
